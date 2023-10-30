@@ -1,0 +1,17 @@
+.card{
+    transition: .3s ease-in-out ;
+}
+.card:hover{
+    transform: scale(1.08);
+}
+
+    
+
+.b1{
+    transition: .3s ease-in-out ;
+}
+
+.b1:hover{
+    transform: scale(1.08);
+    color: white;
+}

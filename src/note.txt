@@ -1,0 +1,21 @@
+<iframe width="930" height="523" src="https://www.youtube.com/embed/mbvSxK3KB8Q" title="He Awakens The Power To Steal The Strongest Skills" frameborder="0" 
+
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+
+api
+
+url,method,body,header
+
+statelifting - it used to communicate with sibiling components using  parent .by creating useState in parent component and which component whats update share update component and which sibiling component want the  uodated data share  the uodated  data state
+
+
+
+dargging evnets- events with target value
+----------
+onDragStart
+onDragOver
+onDrop
+
+
